@@ -1,3 +1,3 @@
 Meteor.startup(function(){
-    alert("hello custom  script");
+    console.log('custom script loaded');
 })
